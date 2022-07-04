@@ -1,1 +1,2 @@
 Hello World, I am Long, I learned HTML, CSS, JavaScript, NodeJS with Express, I am learning about control version.
+Nhin vao nu cuoi ay da khien trai tim em buon.
